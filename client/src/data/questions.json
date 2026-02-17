@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "question": "I like to work on cars",
+        "type": "R"
+    },
+    {
+        "id": 2,
+        "question": "I like to build things",
+        "type": "R"
+    },
+    {
+        "id": 3,
+        "question": "I like to take care of animals",
+        "type": "R"
+    },
+    {
+        "id": 4,
+        "question": "I like to assemble electronic parts",
+        "type": "R"
+    },
+    {
+        "id": 5,
+        "question": "I like to do puzzles",
+        "type": "I"
+    },
+    {
+        "id": 6,
+        "question": "I like to do experiments",
+        "type": "I"
+    },
+    {
+        "id": 7,
+        "question": "I like to study science",
+        "type": "I"
+    },
+    {
+        "id": 8,
+        "question": "I like to solve math problems",
+        "type": "I"
+    },
+    {
+        "id": 9,
+        "question": "I like to draw or paint",
+        "type": "A"
+    },
+    {
+        "id": 10,
+        "question": "I like to play a musical instrument",
+        "type": "A"
+    },
+    {
+        "id": 11,
+        "question": "I like to write stories or plays",
+        "type": "A"
+    },
+    {
+        "id": 12,
+        "question": "I like to take photos",
+        "type": "A"
+    },
+    {
+        "id": 13,
+        "question": "I like to help people",
+        "type": "S"
+    },
+    {
+        "id": 14,
+        "question": "I like to teach people",
+        "type": "S"
+    },
+    {
+        "id": 15,
+        "question": "I like to volunteer",
+        "type": "S"
+    },
+    {
+        "id": 16,
+        "question": "I like to lead a team",
+        "type": "E"
+    },
+    {
+        "id": 17,
+        "question": "I like to sell things",
+        "type": "E"
+    },
+    {
+        "id": 18,
+        "question": "I like to give speeches",
+        "type": "E"
+    },
+    {
+        "id": 19,
+        "question": "I like to organize things",
+        "type": "C"
+    },
+    {
+        "id": 20,
+        "question": "I like to work with numbers",
+        "type": "C"
+    },
+    {
+        "id": 21,
+        "question": "I like to follow a set schedule",
+        "type": "C"
+    }
+]

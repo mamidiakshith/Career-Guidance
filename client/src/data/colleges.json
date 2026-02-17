@@ -1,0 +1,142 @@
+{
+    "exams": [
+        {
+            "id": 1,
+            "name": "JEE Main",
+            "stream": "Science (PCM)",
+            "description": "National level entrance exam for NITs, IIITs and GFTIs.",
+            "date": "Jan & Apr"
+        },
+        {
+            "id": 2,
+            "name": "NEET",
+            "stream": "Science (PCB)",
+            "description": "National Eligibility cum Entrance Test for MBBS/BDS.",
+            "date": "May"
+        },
+        {
+            "id": 3,
+            "name": "CAT",
+            "stream": "Any Stream",
+            "description": "Common Admission Test for IIMs and other top B-schools.",
+            "date": "Nov"
+        },
+        {
+            "id": 4,
+            "name": "CLAT",
+            "stream": "Arts / Commerce",
+            "description": "Common Law Admission Test for NLUs.",
+            "date": "Dec"
+        },
+        {
+            "id": 5,
+            "name": "NID DAT",
+            "stream": "Arts / Any Stream",
+            "description": "Design Aptitude Test for National Institutes of Design.",
+            "date": "Jan"
+        },
+        {
+            "id": 6,
+            "name": "UPSC CSE",
+            "stream": "Any Stream",
+            "description": "Civil Services Examination for IAS, IPS, IFS.",
+            "date": "May (Prelims)"
+        },
+        {
+            "id": 7,
+            "name": "CA Foundation",
+            "stream": "Commerce",
+            "description": "Entry-level exam for Chartered Accountancy.",
+            "date": "June & Dec"
+        },
+        {
+            "id": 8,
+            "name": "NIFT Entrance",
+            "stream": "Arts / Any Stream",
+            "description": "Entrance for National Institute of Fashion Technology.",
+            "date": "Jan"
+        }
+    ],
+    "colleges": [
+        {
+            "id": 1,
+            "name": "IIT Bombay",
+            "location": "Mumbai",
+            "stream": "Science (PCM)",
+            "exam": "JEE Advanced",
+            "rating": "5/5"
+        },
+        {
+            "id": 2,
+            "name": "AIIMS Delhi",
+            "location": "New Delhi",
+            "stream": "Science (PCB)",
+            "exam": "NEET",
+            "rating": "5/5"
+        },
+        {
+            "id": 3,
+            "name": "IIM Ahmedabad",
+            "location": "Ahmedabad",
+            "stream": "Any Stream",
+            "exam": "CAT",
+            "rating": "5/5"
+        },
+        {
+            "id": 4,
+            "name": "NLSIU",
+            "location": "Bengaluru",
+            "stream": "Arts / Commerce",
+            "exam": "CLAT",
+            "rating": "5/5"
+        },
+        {
+            "id": 5,
+            "name": "NID Ahmedabad",
+            "location": "Ahmedabad",
+            "stream": "Arts / Any Stream",
+            "exam": "NID DAT",
+            "rating": "5/5"
+        },
+        {
+            "id": 6,
+            "name": "SRCC",
+            "location": "New Delhi",
+            "stream": "Commerce",
+            "exam": "CUET",
+            "rating": "4.8/5"
+        },
+        {
+            "id": 7,
+            "name": "NIT Trichy",
+            "location": "Tiruchirappalli",
+            "stream": "Science (PCM)",
+            "exam": "JEE Main",
+            "rating": "4.5/5"
+        },
+        {
+            "id": 8,
+            "name": "CMC Vellore",
+            "location": "Vellore",
+            "stream": "Science (PCB)",
+            "exam": "NEET",
+            "rating": "4.7/5"
+        },
+        {
+            "id": 9,
+            "name": "NIFT Delhi",
+            "location": "New Delhi",
+            "stream": "Arts / Any Stream",
+            "exam": "NIFT",
+            "rating": "4.6/5"
+        },
+        {
+            "id": 10,
+            "name": "BITS Pilani",
+            "location": "Pilani",
+            "stream": "Science (PCM)",
+            "exam": "BITSAT",
+            "rating": "4.7/5"
+        }
+    ]
+}

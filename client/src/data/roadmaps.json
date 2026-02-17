@@ -1,0 +1,122 @@
+[
+    {
+        "id": "science-pcm",
+        "title": "Engineering (Science - PCM)",
+        "stream": "Science (PCM)",
+        "description": "Path to becoming an Engineer, Architect, or Scientist.",
+        "steps": [
+            {
+                "title": "Class 10",
+                "detail": "Focus on Mathematics and Science basics."
+            },
+            {
+                "title": "Class 11-12 (PCM)",
+                "detail": "Choose Physics, Chemistry, Maths. Prepare for competitive exams."
+            },
+            {
+                "title": "Entrance Exams",
+                "detail": "Appear for JEE Main, JEE Advanced, BITSAT, etc."
+            },
+            {
+                "title": "Undergraduate Degree",
+                "detail": "B.Tech / B.E. (4 Years) in chosen specialization."
+            },
+            {
+                "title": "Internships",
+                "detail": "Gain practical experience during college."
+            },
+            {
+                "title": "Job / Higher Studies",
+                "detail": "Campus Placements or GATE/GRE for M.Tech/MS."
+            }
+        ]
+    },
+    {
+        "id": "science-pcb",
+        "title": "Medical (Science - PCB)",
+        "stream": "Science (PCB)",
+        "description": "Path to becoming a Doctor, Dentist, or Biologist.",
+        "steps": [
+            {
+                "title": "Class 10",
+                "detail": "Strong foundation in Biology."
+            },
+            {
+                "title": "Class 11-12 (PCB)",
+                "detail": "Choose Physics, Chemistry, Biology."
+            },
+            {
+                "title": "Entrance Exams",
+                "detail": "Appear for NEET (National Eligibility cum Entrance Test)."
+            },
+            {
+                "title": "MBBS / BDS",
+                "detail": "5.5 Years degree including internship."
+            },
+            {
+                "title": "Post Graduation",
+                "detail": "MD / MS for specialization (3 Years)."
+            },
+            {
+                "title": "Practice",
+                "detail": "Start private practice or join a hospital."
+            }
+        ]
+    },
+    {
+        "id": "commerce",
+        "title": "Commerce & Finance",
+        "stream": "Commerce",
+        "description": "Path to CA, CS, Banking, and Finance roles.",
+        "steps": [
+            {
+                "title": "Class 11-12 (Commerce)",
+                "detail": "Focus on Accountancy, Economics, Business Studies."
+            },
+            {
+                "title": "Undergraduate",
+                "detail": "B.Com, BBA, or Professional Course (CA/CS/CMA)."
+            },
+            {
+                "title": "Professional Exams",
+                "detail": "Clear CA/CS Foundation, Inter, and Final exams."
+            },
+            {
+                "title": "Articleship/Internship",
+                "detail": "Mandatory practical training."
+            },
+            {
+                "title": "Certification",
+                "detail": "Obtain membership from ICAI/ICSI."
+            }
+        ]
+    },
+    {
+        "id": "arts",
+        "title": "Humanities, Arts & Design",
+        "stream": "Arts / Any Stream",
+        "description": "Path to Design, Civil Services, Law, and Media.",
+        "steps": [
+            {
+                "title": "Class 11-12 (Arts/Humanities)",
+                "detail": "Focus on History, Pol. Science, Sociology, English."
+            },
+            {
+                "title": "Entrance Exams",
+                "detail": "CUET (for BA), NID/NIFT (for Design), CLAT (for Law)."
+            },
+            {
+                "title": "Undergraduate Degree",
+                "detail": "BA, B.Des, LLB, or BJMC."
+            },
+            {
+                "title": "Skill Building",
+                "detail": "Internships, Portfolio building (for design), Moot courts (for law)."
+            },
+            {
+                "title": "Career Entry",
+                "detail": "Join firms, media houses, or clear UPSC for Civil Services."
+            }
+        ]
+    }
+]

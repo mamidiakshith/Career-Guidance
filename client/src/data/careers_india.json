@@ -1,0 +1,1010 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "type": "I",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Mathematics",
+            "Computer Science",
+            "Physics"
+        ],
+        "skills": [
+            "Coding (Java/Python)",
+            "Problem Solving",
+            "Algorithms"
+        ],
+        "description": "Design and build software applications for web, mobile, and desktop.",
+        "salary": "High (₹6L - ₹30L+)",
+        "education": "B.Tech/B.E. (CSE/IT) or BCA+MCA",
+        "subCareers": [
+            {
+                "title": "Frontend Developer",
+                "description": "Focuses on the visual part of the application that users interact with.",
+                "skills": [
+                    "HTML/CSS",
+                    "JavaScript",
+                    "React/Vue/Angular",
+                    "UI/UX Basics"
+                ],
+                "salary": "₹5L - ₹20L"
+            },
+            {
+                "title": "Backend Developer",
+                "description": "Works on server-side logic, databases, and APIs.",
+                "skills": [
+                    "Node.js/Python/Java",
+                    "SQL/NoSQL Databases",
+                    "API Design",
+                    "Server Management"
+                ],
+                "salary": "₹6L - ₹25L"
+            },
+            {
+                "title": "Full Stack Developer",
+                "description": "Handles both frontend and backend development.",
+                "skills": [
+                    "Frontend Tech",
+                    "Backend Tech",
+                    "DevOps Basics",
+                    "System Design"
+                ],
+                "salary": "₹8L - ₹30L+"
+            },
+            {
+                "title": "DevOps Engineer",
+                "description": "Bridges the gap between development and operations/deployment.",
+                "skills": [
+                    "CI/CD",
+                    "Docker/Kubernetes",
+                    "Cloud (AWS/Azure)",
+                    "Scripting"
+                ],
+                "salary": "₹7L - ₹28L"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Doctor (MBBS)",
+        "type": "I",
+        "stream": "Science (PCB)",
+        "subjects": [
+            "Biology",
+            "Physics",
+            "Chemistry"
+        ],
+        "skills": [
+            "Empathy",
+            "Diagnosis",
+            "Patience"
+        ],
+        "description": "Diagnose and treat illnesses, perform surgeries, and prescribe medication.",
+        "salary": "Very High (₹10L - ₹50L+)",
+        "education": "MBBS + MD/MS",
+        "subCareers": [
+            {
+                "title": "General Physician",
+                "description": "First point of contact for patients, treats common illnesses.",
+                "skills": [
+                    "Diagnosis",
+                    "Patient Care",
+                    "General Medicine"
+                ],
+                "salary": "₹10L - ₹20L"
+            },
+            {
+                "title": "Surgeon",
+                "description": "Performs operations to treat injuries or diseases.",
+                "skills": [
+                    "Precision",
+                    "Stamina",
+                    "Anatomy Knowledge",
+                    "Calmness"
+                ],
+                "salary": "₹15L - ₹50L+"
+            },
+            {
+                "title": "Pediatrician",
+                "description": "Specializes in medical care for infants, children, and adolescents.",
+                "skills": [
+                    "Child Care",
+                    "Patience",
+                    "Observation"
+                ],
+                "salary": "₹12L - ₹30L"
+            },
+            {
+                "title": "Cardiologist",
+                "description": "Specializes in heart and cardiovascular system.",
+                "skills": [
+                    "Cardiology",
+                    "Emergency Care",
+                    "Advanced Diagnosis"
+                ],
+                "salary": "₹20L - ₹60L+"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Chartered Accountant (CA)",
+        "type": "C",
+        "stream": "Commerce",
+        "subjects": [
+            "Accountancy",
+            "Economics",
+            "Mathematics"
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Auditing",
+            "Taxation Laws"
+        ],
+        "description": "Manage financial records, taxes, and audits for companies and individuals.",
+        "salary": "High (₹7L - ₹25L+)",
+        "education": "CA Course (Foundation, Inter, Final)",
+        "subCareers": [
+            {
+                "title": "Audit Associate",
+                "description": "Examine financial records to ensure accuracy and compliance.",
+                "skills": [
+                    "Auditing Standards",
+                    "Attention to Detail",
+                    "Excel"
+                ],
+                "salary": "₹6L - ₹12L"
+            },
+            {
+                "title": "Tax Consultant",
+                "description": "Advise clients on tax strategies and compliance.",
+                "skills": [
+                    "Tax Law",
+                    "Plannning",
+                    "Legal Research"
+                ],
+                "salary": "₹7L - ₹15L"
+            },
+            {
+                "title": "Financial Analyst",
+                "description": "Analyze financial data to help businesses make decisions.",
+                "skills": [
+                    "Financial Modeling",
+                    "Data Analysis",
+                    "Forecasting"
+                ],
+                "salary": "₹8L - ₹18L"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Civil Services (IAS/IPS)",
+        "type": "E",
+        "stream": "Any Stream",
+        "subjects": [
+            "History",
+            "Polity",
+            "Geography",
+            "General Studies"
+        ],
+        "skills": [
+            "Leadership",
+            "Decision Making",
+            "Administration"
+        ],
+        "description": "Serve the government in administration, law enforcement, and policy making.",
+        "salary": "High + Perks",
+        "education": "Any Bachelor's Degree + UPSC CSE Exam",
+        "subCareers": [
+            {
+                "title": "IAS Officer",
+                "description": "Administrative role managing districts and departments.",
+                "skills": [
+                    "Administration",
+                    "Policy Making",
+                    "Public Relations"
+                ],
+                "salary": "₹56k - ₹2.5L/mo + Perks"
+            },
+            {
+                "title": "IPS Officer",
+                "description": "Law enforcement and maintaining public order.",
+                "skills": [
+                    "Police Leadership",
+                    "Law",
+                    "Crisis Management"
+                ],
+                "salary": "₹56k - ₹2.25L/mo + Perks"
+            },
+            {
+                "title": "IFS Officer",
+                "description": "Foreign service, representing India abroad.",
+                "skills": [
+                    "Diplomacy",
+                    "Foreign Policy",
+                    "Languages"
+                ],
+                "salary": "High + Foreign Allowances"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Data Scientist",
+        "type": "I",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Statistics",
+            "Mathematics",
+            "Computer Science"
+        ],
+        "skills": [
+            "Machine Learning",
+            "Python/R",
+            "Data Visualization"
+        ],
+        "description": "Analyze complex data to help organizations make decisions.",
+        "salary": "Very High (₹8L - ₹40L+)",
+        "education": "B.Tech / M.Stat / M.Sc Data Science",
+        "subCareers": [
+            {
+                "title": "Machine Learning Engineer",
+                "description": "Build and deploy ML models.",
+                "skills": [
+                    "Python",
+                    "TensorFlow/PyTorch",
+                    "Algorithms"
+                ],
+                "salary": "₹10L - ₹35L"
+            },
+            {
+                "title": "Data Analyst",
+                "description": "Interpret data to answer business questions.",
+                "skills": [
+                    "SQL",
+                    "Excel",
+                    "Tableau/PowerBI"
+                ],
+                "salary": "₹5L - ₹15L"
+            },
+            {
+                "title": "Data Engineer",
+                "description": "Build data pipelines and infrastructure.",
+                "skills": [
+                    "Big Data (Spark/Hadoop)",
+                    "SQL",
+                    "Cloud ETL"
+                ],
+                "salary": "₹8L - ₹25L"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Graphic Designer",
+        "type": "A",
+        "stream": "Arts / Any Stream",
+        "subjects": [
+            "Arts",
+            "Design"
+        ],
+        "skills": [
+            "Creativity",
+            "Adobe Photoshop/Illustrator",
+            "Visual Communication"
+        ],
+        "description": "Create visual concepts to communicate ideas that inspire, inform, and captivate.",
+        "salary": "Medium (₹3L - ₹12L)",
+        "education": "B.Des / Diploma in Design",
+        "subCareers": [
+            {
+                "title": "UI/UX Designer",
+                "description": "Design user interfaces and experiences for apps and websites.",
+                "skills": [
+                    "Figma",
+                    "User Research",
+                    "Prototyping"
+                ],
+                "salary": "₹6L - ₹20L"
+            },
+            {
+                "title": "Illustrator",
+                "description": "Create original artwork for various media.",
+                "skills": [
+                    "Drawing",
+                    "Digital Painting",
+                    "Creativity"
+                ],
+                "salary": "₹4L - ₹12L"
+            },
+            {
+                "title": "Brand Identity Designer",
+                "description": "Create logos and visual identities for brands.",
+                "skills": [
+                    "Branding",
+                    "Typography",
+                    "Color Theory"
+                ],
+                "salary": "₹5L - ₹15L"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Lawyer / Advocate",
+        "type": "E",
+        "stream": "Arts / Commerce",
+        "subjects": [
+            "Political Science",
+            "Legal Studies",
+            "English"
+        ],
+        "skills": [
+            "Argumentation",
+            "Research",
+            "Communication"
+        ],
+        "description": "Advise and represent clients in legal matters.",
+        "salary": "High (Variable)",
+        "education": "LLB (3 Years) or BA LLB (5 Years)",
+        "subCareers": [
+            {
+                "title": "Corporate Lawyer",
+                "description": "Handle legal matters for corporations.",
+                "skills": [
+                    "Corporate Law",
+                    "Mergers & Acquisitions",
+                    "Contracts"
+                ],
+                "salary": "₹10L - ₹30L"
+            },
+            {
+                "title": "Criminal Lawyer",
+                "description": "Defend or prosecute individuals accused of crimes.",
+                "skills": [
+                    "Criminal Law",
+                    "Litigation",
+                    "Evidence Analysis"
+                ],
+                "salary": "Variable (High for top lawyers)"
+            },
+            {
+                "title": "Intellectual Property Lawyer",
+                "description": "Protect patents, trademarks, and copyrights.",
+                "skills": [
+                    "IP Law",
+                    "Technical Knowledge",
+                    "Litigation"
+                ],
+                "salary": "₹8L - ₹25L"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Mechanical Engineer",
+        "type": "R",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Physics",
+            "Mathematics",
+            "Chemistry"
+        ],
+        "skills": [
+            "CAD Design",
+            "Thermodynamics",
+            "Mechanics"
+        ],
+        "description": "Design, manufacture, and maintain mechanical systems.",
+        "salary": "High (₹4L - ₹15L)",
+        "education": "B.Tech (Mechanical)",
+        "subCareers": [
+            {
+                "title": "Design Engineer",
+                "description": "Design mechanical components using CAD tools.",
+                "skills": [
+                    "SolidWorks/AutoCAD",
+                    "Design Principles",
+                    "Simulation"
+                ],
+                "salary": "₹5L - ₹12L"
+            },
+            {
+                "title": "Manufacturing Engineer",
+                "description": "Oversee the production process in factories.",
+                "skills": [
+                    "Production Planning",
+                    "Quality Control",
+                    "Lean Manufacturing"
+                ],
+                "salary": "₹4L - ₹10L"
+            },
+            {
+                "title": "Automotive Engineer",
+                "description": "Design and develop vehicles.",
+                "skills": [
+                    "Vehicle Dynamics",
+                    "Engine Systems",
+                    "Safety Standards"
+                ],
+                "salary": "₹6L - ₹15L"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Investment Banker",
+        "type": "E",
+        "stream": "Commerce / Science (Maths)",
+        "subjects": [
+            "Mathematics",
+            "Economics",
+            "Finance"
+        ],
+        "skills": [
+            "Financial Modelling",
+            "Valuation",
+            "Negotiation"
+        ],
+        "description": "Help companies raise capital and provide financial advice.",
+        "salary": "Very High (₹12L - ₹50L+)",
+        "education": "MBA (Finance) / CFA",
+        "subCareers": [
+            {
+                "title": "Mergers & Acquisitions (M&A)",
+                "description": "Advise on buying and selling companies.",
+                "skills": [
+                    "Valuation",
+                    "Due Diligence",
+                    "Negotiation"
+                ],
+                "salary": "₹15L - ₹50L+"
+            },
+            {
+                "title": "Equity Research Analyst",
+                "description": "Analyze stocks and provide investment recommendations.",
+                "skills": [
+                    "Financial Modeling",
+                    "Report Writing",
+                    "Market Analysis"
+                ],
+                "salary": "₹8L - ₹20L"
+            },
+            {
+                "title": "Sales & Trading",
+                "description": "Buy and sell securities for clients.",
+                "skills": [
+                    "Fast Decision Making",
+                    "Market Knowledge",
+                    "Communication"
+                ],
+                "salary": "High base + Bonus"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Psychologist",
+        "type": "S",
+        "stream": "Arts / Science (Bio)",
+        "subjects": [
+            "Psychology",
+            "Biology",
+            "Sociology"
+        ],
+        "skills": [
+            "Listening",
+            "Empathy",
+            "Analysis"
+        ],
+        "description": "Study human behavior and mental processes to help people.",
+        "salary": "Medium (₹3L - ₹10L)",
+        "education": "BA/B.Sc Psychology + MA/M.Sc",
+        "subCareers": [
+            {
+                "title": "Clinical Psychologist",
+                "description": "Diagnose and treat mental disorders.",
+                "skills": [
+                    "Therapy Techniques",
+                    "Diagnosis",
+                    "Empathy"
+                ],
+                "salary": "₹4L - ₹12L"
+            },
+            {
+                "title": "Counseling Psychologist",
+                "description": "Help people cope with life challenges.",
+                "skills": [
+                    "Counseling",
+                    "Listening",
+                    "Patience"
+                ],
+                "salary": "₹3L - ₹10L"
+            },
+            {
+                "title": "Industrial-Organizational Psychologist",
+                "description": "Apply psychology to workplace issues.",
+                "skills": [
+                    "HR",
+                    "Organizational Behavior",
+                    "Data Analysis"
+                ],
+                "salary": "₹6L - ₹18L"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Commercial Pilot",
+        "type": "R",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Physics",
+            "Mathematics"
+        ],
+        "skills": [
+            "Situational Awareness",
+            "Technical Knowledge",
+            "Decision Making"
+        ],
+        "description": "Fly aircraft for airlines.",
+        "salary": "Very High (₹15L - ₹60L+)",
+        "education": "Flight School + CPL License",
+        "subCareers": [
+            {
+                "title": "Airline Pilot",
+                "description": "Fly passenger or cargo aircrafts for airlines.",
+                "skills": [
+                    "Aviation Regulations",
+                    "Navigation",
+                    "Crew Management"
+                ],
+                "salary": "₹20L - ₹80L+"
+            },
+            {
+                "title": "Corporate Pilot",
+                "description": "Fly private jets for corporations or individuals.",
+                "skills": [
+                    "Customer Service",
+                    "Flexibility",
+                    "Aviation"
+                ],
+                "salary": "₹15L - ₹50L"
+            },
+            {
+                "title": "Flight Instructor",
+                "description": "Teach others how to fly.",
+                "skills": [
+                    "Teaching",
+                    "Patience",
+                    "Deep Aviation Knowledge"
+                ],
+                "salary": "₹8L - ₹25L"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Architect",
+        "type": "A",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Mathematics",
+            "Physics",
+            "Art"
+        ],
+        "skills": [
+            "Design",
+            "Creativity",
+            "Technical Drawing"
+        ],
+        "description": "Plan and design buildings and structures.",
+        "salary": "High (₹5L - ₹20L)",
+        "education": "B.Arch (NATA Exam)",
+        "subCareers": [
+            {
+                "title": "Residential Architect",
+                "description": "Design homes and residential buildings.",
+                "skills": [
+                    "Housing Design",
+                    "Client Interaction",
+                    "Regulations"
+                ],
+                "salary": "₹5L - ₹15L"
+            },
+            {
+                "title": "Landscape Architect",
+                "description": "Design outdoor spaces, parks, and gardens.",
+                "skills": [
+                    "Horticulture",
+                    "Site Planning",
+                    "Sustainability"
+                ],
+                "salary": "₹4L - ₹12L"
+            },
+            {
+                "title": "Urban Planner",
+                "description": "Plan land use and communities.",
+                "skills": [
+                    "City Planning",
+                    "Zoning Laws",
+                    "GIS"
+                ],
+                "salary": "₹6L - ₹18L"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Journalist / Mass Comm.",
+        "type": "A",
+        "stream": "Arts / Any Stream",
+        "subjects": [
+            "English",
+            "History",
+            "Political Science"
+        ],
+        "skills": [
+            "Writing",
+            "Reporting",
+            "Curiosity"
+        ],
+        "description": "Research and report news stories for media outlets.",
+        "salary": "Medium (₹3L - ₹12L)",
+        "education": "BJMC / BA Journalism",
+        "subCareers": [
+            {
+                "title": "News Anchor",
+                "description": "Present news on television or radio.",
+                "skills": [
+                    "Public Speaking",
+                    "Presence",
+                    "Articulation"
+                ],
+                "salary": "₹5L - ₹20L"
+            },
+            {
+                "title": "Investigative Reporter",
+                "description": "Deeply research uncover stories.",
+                "skills": [
+                    "Research",
+                    "Persistence",
+                    "Interviewing"
+                ],
+                "salary": "₹4L - ₹15L"
+            },
+            {
+                "title": "Editor",
+                "description": "Review and refine content for publication.",
+                "skills": [
+                    "Grammar",
+                    "Attention to Detail",
+                    "Management"
+                ],
+                "salary": "₹5L - ₹18L"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Fashion Designer",
+        "type": "A",
+        "stream": "Arts / Any Stream",
+        "subjects": [
+            "Art",
+            "Design"
+        ],
+        "skills": [
+            "Creativity",
+            "Sketching",
+            "Trend Analysis"
+        ],
+        "description": "Design clothing and accessories.",
+        "salary": "Variable (High potential)",
+        "education": "B.Des (NIFT)",
+        "subCareers": [
+            {
+                "title": "Apparel Designer",
+                "description": "Design clothing lines.",
+                "skills": [
+                    "Sketching",
+                    "Fabric Knowledge",
+                    "Pattern Making"
+                ],
+                "salary": "₹4L - ₹15L"
+            },
+            {
+                "title": "Accessory Designer",
+                "description": "Design jewelry, bags, footwear, etc.",
+                "skills": [
+                    "Material Knowledge",
+                    "Craftsmanship",
+                    "Trend Spotting"
+                ],
+                "salary": "₹3L - ₹12L"
+            },
+            {
+                "title": "Fashion Stylist",
+                "description": "Create looks for photoshoots, celebrities, etc.",
+                "skills": [
+                    "Styling",
+                    "Networking",
+                    "Visual Eye"
+                ],
+                "salary": "Variable"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Hotel Manager",
+        "type": "E",
+        "stream": "Any Stream",
+        "subjects": [
+            "English",
+            "Business Studies"
+        ],
+        "skills": [
+            "Communication",
+            "Leadership",
+            "Service"
+        ],
+        "description": "Manage operations of hotels and hospitality businesses.",
+        "salary": "Medium (₹3L - ₹15L)",
+        "education": "BHM / B.Sc Hospitality",
+        "subCareers": [
+            {
+                "title": "General Manager",
+                "description": "Oversee entire hotel operations.",
+                "skills": [
+                    "Operations Management",
+                    "Leadership",
+                    "Finance"
+                ],
+                "salary": "₹15L - ₹40L"
+            },
+            {
+                "title": "Front Office Manager",
+                "description": "Manage reception and guest services.",
+                "skills": [
+                    "Customer Service",
+                    "Problem Solving",
+                    "Staff Management"
+                ],
+                "salary": "₹4L - ₹10L"
+            },
+            {
+                "title": "F&B Manager",
+                "description": "Manage food and beverage operations.",
+                "skills": [
+                    "Food Safety",
+                    "Menu Planning",
+                    "Cost Control"
+                ],
+                "salary": "₹5L - ₹12L"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Digital Marketer",
+        "type": "E",
+        "stream": "Any Stream",
+        "subjects": [
+            "English",
+            "Marketing",
+            "Computer Basics"
+        ],
+        "skills": [
+            "SEO",
+            "Content Marketing",
+            "Social Media"
+        ],
+        "description": "Promote products and services using digital channels.",
+        "salary": "Medium (₹3L - ₹15L)",
+        "education": "BBA / MBA / Certifications",
+        "subCareers": [
+            {
+                "title": "SEO Specialist",
+                "description": "Optimize websites to rank higher in search results.",
+                "skills": [
+                    "SEO Tools",
+                    "Analytics",
+                    "HTML Basics"
+                ],
+                "salary": "₹3L - ₹10L"
+            },
+            {
+                "title": "Social Media Manager",
+                "description": "Manage brand presence on social platforms.",
+                "skills": [
+                    "Copywriting",
+                    "Design Basics",
+                    "Trend Awareness"
+                ],
+                "salary": "₹3L - ₹8L"
+            },
+            {
+                "title": "PPC Specialist",
+                "description": "Manage paid advertising campaigns.",
+                "skills": [
+                    "Google Ads",
+                    "Data Analysis",
+                    "ROI Optimization"
+                ],
+                "salary": "₹4L - ₹12L"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Event Manager",
+        "type": "E",
+        "stream": "Any Stream",
+        "subjects": [
+            "Business",
+            "English"
+        ],
+        "skills": [
+            "Organization",
+            "Planning",
+            "Communication"
+        ],
+        "description": "Plan and execute events like weddings, conferences, etc.",
+        "salary": "Variable",
+        "education": "Diploma in Event Management / BBA",
+        "subCareers": [
+            {
+                "title": "Wedding Planner",
+                "description": "Plan and coordinate weddings.",
+                "skills": [
+                    "Vendor Management",
+                    "Budgeting",
+                    "Design"
+                ],
+                "salary": "Variable (Commission based)"
+            },
+            {
+                "title": "Corporate Event Planner",
+                "description": "Organize conferences and corporate meetings.",
+                "skills": [
+                    "Professionalism",
+                    "Logistics",
+                    "Scheduling"
+                ],
+                "salary": "₹4L - ₹12L"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Ethical Hacker (Cybersecurity)",
+        "type": "I",
+        "stream": "Science (PCM)",
+        "subjects": [
+            "Computer Science",
+            "Mathematics"
+        ],
+        "skills": [
+            "Networking",
+            "Linux",
+            "Scripting"
+        ],
+        "description": "Protect organizations from cyber attacks.",
+        "salary": "High (₹6L - ₹25L)",
+        "education": "B.Tech (CSE) + Certifications (CEH)",
+        "subCareers": [
+            {
+                "title": "Penetration Tester",
+                "description": "Simulate attacks to find vulnerabilities.",
+                "skills": [
+                    "Hacking Tools",
+                    "Networking",
+                    "Report Writing"
+                ],
+                "salary": "₹8L - ₹20L"
+            },
+            {
+                "title": "Security Analyst",
+                "description": "Monitor and protect networks.",
+                "skills": [
+                    "SIEM",
+                    "Incident Response",
+                    "Firewalls"
+                ],
+                "salary": "₹6L - ₹15L"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Stock Broker / Trader",
+        "type": "E",
+        "stream": "Commerce",
+        "subjects": [
+            "Finance",
+            "Economics",
+            "Maths"
+        ],
+        "skills": [
+            "Analysis",
+            "Risk Management",
+            "Decision Making"
+        ],
+        "description": "Buy and sell stocks for clients or self.",
+        "salary": "Variable (High Risk/High Reward)",
+        "education": "B.Com / MBA finance / NISM Certifications",
+        "subCareers": [
+            {
+                "title": "Equity Trader",
+                "description": "Trade stocks for short term profit.",
+                "skills": [
+                    "Technical Analysis",
+                    "Risk Management",
+                    "Discipline"
+                ],
+                "salary": "Variable"
+            },
+            {
+                "title": "Portfolio Manager",
+                "description": "Manage investment portfolios for clients.",
+                "skills": [
+                    "Asset Allocation",
+                    "Fundamental Analysis",
+                    "Communication"
+                ],
+                "salary": "₹10L - ₹30L+"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Teacher / Professor",
+        "type": "S",
+        "stream": "Subject Specific",
+        "subjects": [
+            "Specialized Subject"
+        ],
+        "skills": [
+            "Communication",
+            "Patience",
+            "Mentoring"
+        ],
+        "description": "Educate students in schools or universities.",
+        "salary": "Medium (₹4L - ₹15L)",
+        "education": "B.Ed / PhD",
+        "subCareers": [
+            {
+                "title": "School Teacher",
+                "description": "Teach students in primary or secondary schools.",
+                "skills": [
+                    "Classroom Management",
+                    "Lesson Planning",
+                    "Patience"
+                ],
+                "salary": "₹3L - ₹8L"
+            },
+            {
+                "title": "Professor/Lecturer",
+                "description": "Teach in colleges/universities and conduct research.",
+                "skills": [
+                    "Research",
+                    "Subject Expertise",
+                    "Public Speaking"
+                ],
+                "salary": "₹6L - ₹15L+"
+            },
+            {
+                "title": "Online Educator",
+                "description": "Create courses and teach online.",
+                "skills": [
+                    "Video Production",
+                    "Content Creation",
+                    "Marketing"
+                ],
+                "salary": "Variable"
+            }
+        ]
+    }
+]

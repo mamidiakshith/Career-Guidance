@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "type": "I",
+        "description": "Design and build software applications.",
+        "salary": "High",
+        "education": "B.Tech/B.E. (CS/IT)"
+    },
+    {
+        "id": 2,
+        "title": "Mechanical Engineer",
+        "type": "R",
+        "description": "Design and manufacture mechanical systems.",
+        "salary": "High",
+        "education": "B.Tech (Mechanical)"
+    },
+    {
+        "id": 3,
+        "title": "Graphic Designer",
+        "type": "A",
+        "description": "Create visual concepts to communicate ideas.",
+        "salary": "Medium",
+        "education": "B.Des / Diploma"
+    },
+    {
+        "id": 4,
+        "title": "Doctor",
+        "type": "I",
+        "description": "Diagnose and treat illnesses.",
+        "salary": "Very High",
+        "education": "MBBS"
+    },
+    {
+        "id": 5,
+        "title": "Teacher",
+        "type": "S",
+        "description": "Educate students in schools or colleges.",
+        "salary": "Medium",
+        "education": "B.Ed / PhD"
+    },
+    {
+        "id": 6,
+        "title": "Sales Manager",
+        "type": "E",
+        "description": "Lead sales teams and drive revenue.",
+        "salary": "High",
+        "education": "MBA (Sales/Marketing)"
+    },
+    {
+        "id": 7,
+        "title": "Accountant",
+        "type": "C",
+        "description": "Manage financial records and taxes.",
+        "salary": "Medium",
+        "education": "B.Com / CA"
+    },
+    {
+        "id": 8,
+        "title": "Architect",
+        "type": "A",
+        "description": "Plan and design buildings.",
+        "salary": "High",
+        "education": "B.Arch"
+    },
+    {
+        "id": 9,
+        "title": "Psychologist",
+        "type": "S",
+        "description": "Study human behavior and mental processes.",
+        "salary": "Medium",
+        "education": "MA/M.Sc Psychology"
+    },
+    {
+        "id": 10,
+        "title": "Data Scientist",
+        "type": "I",
+        "description": "Analyze complex data to help make decisions.",
+        "salary": "Very High",
+        "education": "B.Tech / M.Stat"
+    },
+    {
+        "id": 11,
+        "title": "Journalist",
+        "type": "A",
+        "description": "Research and report news stories.",
+        "salary": "Medium",
+        "education": "BJMC"
+    },
+    {
+        "id": 12,
+        "title": "Investment Banker",
+        "type": "E",
+        "description": "Help companies raise capital.",
+        "salary": "Very High",
+        "education": "MBA (Finance)"
+    },
+    {
+        "id": 13,
+        "title": "Civil Service Officer (IAS/IPS)",
+        "type": "E",
+        "description": "Serve the government in administration.",
+        "salary": "High",
+        "education": "Any Degree + UPSC"
+    },
+    {
+        "id": 14,
+        "title": "Chef",
+        "type": "R",
+        "description": "Prepare food in restaurants or hotels.",
+        "salary": "Variable",
+        "education": "Hotel Management"
+    },
+    {
+        "id": 15,
+        "title": "Pilot",
+        "type": "R",
+        "description": "Fly aircraft for airlines or private companies.",
+        "salary": "Very High",
+        "education": "Flight School + License"
+    },
+    {
+        "id": 16,
+        "title": "Lawyer",
+        "type": "E",
+        "description": "Advise and represent clients in legal matters.",
+        "salary": "High",
+        "education": "LLB"
+    }
+]
